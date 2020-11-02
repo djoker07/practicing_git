@@ -2,3 +2,5 @@ base comment
 This is the first commit.
 Adela commit-1
 This is the second commit by Hayden.
+
+Same line to see what happens (Adela)
