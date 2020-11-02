@@ -2,4 +2,9 @@ base comment
 This is the first commit.
 Adela commit-1
 This is the second commit by Hayden.
+<<<<<<< HEAD
 Commit by Edward
+=======
+
+This is another comment
+>>>>>>> dc9a3dab91265f8a4dfa07a8586b9ce36f9e9eac
