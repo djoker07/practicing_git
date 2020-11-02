@@ -1,0 +1,26 @@
+git clone
+
+add a new file named yourname.txt
+add something to it
+-- leave for step 2 add your name to the everyone.txt file
+
+git add .
+git commit -m "some message"
+git push
+
+git pull way
+
+resolve any conflicts by
+git pull
+review the conflicts and adjust your code
+
+go back to git add
+
+
+fetch way
+git fetch 
+git diff ...origin --> to see the differences
+git merge
+review conflicts and fix
+
+go back to git add
