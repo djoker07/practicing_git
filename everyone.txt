@@ -25,7 +25,6 @@ myBranch
 
 catherine 4th edit
 
-
 andres
 
 Diana
@@ -38,10 +37,11 @@ Adela
 
 Camilo's second commit
 
-
 LUVEFA
 
 This is added on a new branch
 
+branch changes
+Brancho Edward
 Hayden's Branch
 
