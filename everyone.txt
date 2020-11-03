@@ -1,11 +1,24 @@
 base comment
+
+This is Tan's first commit.
+
 This is the first commit.
 Adela commit-1
+
 This is the second commit by Hayden.
+catherine testing 123
+
+catherine take 3
+
+This is the second commit by Hayden. And another
+
 
 Commit by Edward
 some other comment for testing
 Same line to see what happens (Adela)
 This is another comment
 
+
+catherine testing 123
+Hello Edward!
 Adela
