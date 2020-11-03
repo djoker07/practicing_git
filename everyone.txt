@@ -5,9 +5,13 @@ This is Tan's first commit.
 This is the first commit.
 Adela commit-1
 This is the second commit by Hayden.
+<<<<<<< HEAD
 
 Commit by Edward
 some other comment for testing
 Same line to see what happens (Adela)
 This is another comment
 >>>>>>> 3ef2fa36a2cd2d5cfb88e46443e6fb6e8c03f145
+=======
+catherine testing 123
+>>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
