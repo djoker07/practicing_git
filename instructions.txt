@@ -24,3 +24,19 @@ git merge
 review conflicts and fix
 
 go back to git add
+
+
+BRANCHING
+
+git branch name
+git checkout branch 
+    add changes to the files
+    add, commit, push
+
+request a merge
+
+DELETING BRANCHES
+git checkout main --> go back to main branch
+
+git branch -D myBranch --> for local BRANCHES
+git push origin --delete myBranch --> Delete remote
