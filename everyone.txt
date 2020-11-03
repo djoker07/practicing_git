@@ -7,3 +7,5 @@ Commit by Edward
 some other comment for testing
 Same line to see what happens (Adela)
 This is another comment
+
+Adela
