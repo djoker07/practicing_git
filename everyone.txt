@@ -20,35 +20,33 @@ This is another comment
 
 
 catherine testing 123
-<<<<<<< HEAD
->>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 2a54784ed12528e279a98f014d7228d5c68bf9e8
-Diana
-+++++++++++++++++++++++
-=======
-=======
+
+myBranch
+
+catherine 4th edit
+
 andres
-++++++++++++++++
-=======
-<<<<<<< HEAD
->>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
->>>>>>> 06e0391f983bbf97143d26523c634b729be6a26e
+
+Diana
+
+andres
+
 Tan Nguyen
-=======
 Hello Edward!
 Adela
->>>>>>> 7fa5f4fd53a6c7146e7706177db759837b550cb1
-<<<<<<< HEAD
 
 Camilo's second commit
-=======
->>>>>>> 781de0c43d48789f4c84f13be20f888918903acb
->>>>>>> d30417806e0b08905399e5d29a2b0ced8f7ccf91
-
 *********************************************************
 *********************************************************
      *************CAMILO NEW BRANCH***************
 *********************************************************
 *********************************************************
+
+LUVEFA
+
+This is added on a new branch
+
+branch changes
+Brancho Edward
+Hayden's Branch
+
