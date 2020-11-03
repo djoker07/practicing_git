@@ -4,15 +4,12 @@ This is Tan's first commit.
 
 This is the first commit.
 Adela commit-1
-<<<<<<< HEAD
-=======
 
 This is the second commit by Hayden.
 catherine testing 123
 
 catherine take 3
 
->>>>>>> 781de0c43d48789f4c84f13be20f888918903acb
 This is the second commit by Hayden. And another
 
 
@@ -49,3 +46,9 @@ Camilo's second commit
 =======
 >>>>>>> 781de0c43d48789f4c84f13be20f888918903acb
 >>>>>>> d30417806e0b08905399e5d29a2b0ced8f7ccf91
+
+*********************************************************
+*********************************************************
+     *************CAMILO NEW BRANCH***************
+*********************************************************
+*********************************************************
