@@ -4,12 +4,15 @@ This is Tan's first commit.
 
 This is the first commit.
 Adela commit-1
+<<<<<<< HEAD
+=======
 
 This is the second commit by Hayden.
 catherine testing 123
 
 catherine take 3
 
+>>>>>>> 781de0c43d48789f4c84f13be20f888918903acb
 This is the second commit by Hayden. And another
 
 
@@ -23,10 +26,18 @@ catherine testing 123
 <<<<<<< HEAD
 >>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2a54784ed12528e279a98f014d7228d5c68bf9e8
 Diana
 +++++++++++++++++++++++
 =======
+=======
+andres
+++++++++++++++++
+=======
+<<<<<<< HEAD
+>>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
+>>>>>>> 06e0391f983bbf97143d26523c634b729be6a26e
 Tan Nguyen
 =======
 Hello Edward!
