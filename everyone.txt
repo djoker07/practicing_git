@@ -4,6 +4,12 @@ This is Tan's first commit.
 =======
 This is the first commit.
 Adela commit-1
+<<<<<<< HEAD
+This is the second commit by Hayden.
+catherine testing 123
+
+catherine take 3
+=======
 This is the second commit by Hayden. And another
 <<<<<<< HEAD
 
@@ -15,3 +21,8 @@ This is another comment
 =======
 catherine testing 123
 >>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
+<<<<<<< HEAD
+Hello Edward!
+=======
+>>>>>>> 2a54784ed12528e279a98f014d7228d5c68bf9e8
+>>>>>>> 268d2e4658c540517b2b940d96fc9d881335f0b9
