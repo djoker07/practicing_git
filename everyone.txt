@@ -1,26 +1,35 @@
 base comment
-<<<<<<< HEAD
+
 This is Tan's first commit.
-=======
+
 This is the first commit.
 Adela commit-1
-<<<<<<< HEAD
+
 This is the second commit by Hayden.
 catherine testing 123
 
 catherine take 3
-=======
+
 This is the second commit by Hayden. And another
-<<<<<<< HEAD
+
 
 Commit by Edward
 some other comment for testing
 Same line to see what happens (Adela)
 This is another comment
->>>>>>> 3ef2fa36a2cd2d5cfb88e46443e6fb6e8c03f145
-=======
+
+
 catherine testing 123
+<<<<<<< HEAD
 >>>>>>> 35a401b1d7d9b3087e4014bb1345b48548f67527
+<<<<<<< HEAD
 >>>>>>> 2a54784ed12528e279a98f014d7228d5c68bf9e8
 Diana
 +++++++++++++++++++++++
+=======
+Tan Nguyen
+=======
+Hello Edward!
+Adela
+>>>>>>> 7fa5f4fd53a6c7146e7706177db759837b550cb1
+>>>>>>> 781de0c43d48789f4c84f13be20f888918903acb
